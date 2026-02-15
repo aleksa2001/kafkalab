@@ -91,6 +91,13 @@ Streamlit Dashboard: http://localhost:8501
 
 Zookeeper: localhost:2181
 
+### Итоговый дашборд
+<img width="1880" height="977" alt="image" src="https://github.com/user-attachments/assets/81d48eef-4a6d-4b6e-adf1-335e4e2e5581" />
 
- 
- 
+ <img width="1117" height="404" alt="image" src="https://github.com/user-attachments/assets/88707069-fa9a-4808-bd86-4025ae41167a" />
+
+ <img width="1646" height="736" alt="image" src="https://github.com/user-attachments/assets/87eac2fc-814f-44a7-bab3-b5fdd04a0fec" />
+
+<img width="1654" height="571" alt="image" src="https://github.com/user-attachments/assets/c5c04b4f-4039-4b6d-9117-d2c581efb41d" />
+
+<img width="1681" height="599" alt="image" src="https://github.com/user-attachments/assets/7f5fbec2-203e-4c70-abfa-a2b8c99b331e" />
